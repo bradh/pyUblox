@@ -10,7 +10,7 @@ rtklib.
 '''
 
 
-import sys
+import sys, time
 import bitstring as bs
 import satPosition, util, RTCMv2
 
